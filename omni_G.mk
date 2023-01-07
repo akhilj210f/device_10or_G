@@ -15,7 +15,7 @@ $(call inherit-product, vendor/twrp/config/common.mk)
 # Inherit from G device
 $(call inherit-product, device/10or/G/device.mk)
 
-PRODUCT_DEVICE := holland2
+PRODUCT_DEVICE := G
 PRODUCT_NAME := omni_G
 PRODUCT_BRAND := 10or
 PRODUCT_MODEL := G
